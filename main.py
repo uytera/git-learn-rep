@@ -6,4 +6,3 @@ def add_new_func():
 
 def conflict_func_2():
     print("conflict")
-
