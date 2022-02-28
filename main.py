@@ -3,3 +3,7 @@ def main():
 
 def add_new_func():
     print("new")
+
+def conflict_func():
+    print("conflict")
+
