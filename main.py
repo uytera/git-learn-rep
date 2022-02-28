@@ -4,6 +4,5 @@ def main():
 def add_new_func():
     print("new")
 
-def conflict_func():
+def conflict_func_1():
     print("conflict")
-
